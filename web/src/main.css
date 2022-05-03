@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.button {
- @apply bg-[#8257e6] p-2 h-10 rounded hover:bg-violet-700 transition-colors
+body {
+  @apply bg-[#09090a] text-zinc-100
 }
